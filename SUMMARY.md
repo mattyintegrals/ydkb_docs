@@ -9,4 +9,6 @@
   * [Taichi Pad](keyboards/taichi-pad.md)
 * [Mac Support](mac-support.md)
   * [Mac与Win键盘区别](mac-support/macyu-win-jian-pan-qu-bie.md)
+* [Features](mac-support/features.md)
+  * [启动快捷方式](mac-support/features/shortcut.md)
 
