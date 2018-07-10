@@ -1,6 +1,6 @@
 # 启动快捷方式（暂时只部分键盘支持）
 
-目前支持的键盘是Taichi Pad、BLE40、YDKB优联、1800mini、YD60BLE、Minira、CAD66、Chili、Grape、Leechee，慢慢会扩展支持更多键盘。
+目前支持的键盘是Taichi Pad、BLE40、YDKB优联、AKB48、1800mini、YD60BLE、Minira、CAD66、Chili、Grape、Leechee，慢慢会扩展支持更多键盘。
 
 新增加的一个功能，仅支持windows。原理是：
 
