@@ -10,5 +10,6 @@
 * [Mac Support](mac-support.md)
   * [Mac与Win键盘区别](mac-support/macyu-win-jian-pan-qu-bie.md)
 * [Features](features.md)
+  * [LEDMAP](features/ledmap.md)
   * [启动快捷方式](features/shortcut.md)
 
