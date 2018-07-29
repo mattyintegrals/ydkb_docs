@@ -7,6 +7,8 @@
 * [Keyboards](keyboards.md)
   * [ESWN](keyboards/eswn.md)
   * [Taichi Pad](keyboards/taichi-pad.md)
+  * [YD60BLE](keyboards/yd60ble.md)
+  * [YD68](keyboards/yd68.md)
 * [Mac Support](mac-support.md)
   * [Mac与Win键盘区别](mac-support/macyu-win-jian-pan-qu-bie.md)
 * [Features](features.md)
