@@ -7,6 +7,7 @@
 * [Keyboards](keyboards.md)
   * [ESWN](keyboards/eswn.md)
   * [Taichi Pad](keyboards/taichi-pad.md)
+  * [Chicory](keyboards/chicory.md)
   * [YD60BLE](keyboards/yd60ble.md)
   * [YD68](keyboards/yd68.md)
 * [Mac Support](mac-support.md)
