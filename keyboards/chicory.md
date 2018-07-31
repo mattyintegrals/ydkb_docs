@@ -1,20 +1,26 @@
+### Chicory
+
+Author: YANG
+
+MCU: Atmega32u4
+
 ### Some infomation for debug  \(已公开的烂大街情报）
 
-`/* Column pin configuration`
+`/* Column pin configuration`
 
-` *  col: 0  1  2  3  4  5  6  7  8  9  10  `
+`*  col: 0  1  2  3  4  5  6  7  8  9  10`
 
-` *  pin: D6 D7 B4 B5 B6 C6 C7 E2 F7 F6 F5 `
+`*  pin: D6 D7 B4 B5 B6 C6 C7 E2 F7 F6 F5`
 
-` */`
+`*/`
 
-`/* Row pin configuration`
+`/* Row pin configuration`
 
-` * row: 0   1   2   3   `
+`* row: 0   1   2   3`
 
-` * pin: F4  F1  F0  E6  `
+`* pin: F4  F1  F0  E6`
 
-` */`
+`*/`
 
 `Caps lock LED: PB7`
 

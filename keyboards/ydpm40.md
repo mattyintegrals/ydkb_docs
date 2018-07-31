@@ -1,6 +1,6 @@
 ## YDPM40介绍
 
-Author: YANG
+Author: YANG
 
 MCU: Atmega328p
 

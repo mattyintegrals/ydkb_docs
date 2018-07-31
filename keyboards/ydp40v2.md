@@ -1,3 +1,9 @@
+### YDP40v2
+
+Author: YANG
+
+MCU: Atmega32u4
+
 ### Some infomation for debug  \(已公开的烂大街情报）
 
 `/* Column pin configuration`

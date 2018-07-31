@@ -1,6 +1,6 @@
 ## Taichi Pad
 
-Author: YANG
+Author: YANG
 
 MCU: Atmega32u4
 
