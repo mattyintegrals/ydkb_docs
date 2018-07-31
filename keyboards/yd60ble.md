@@ -1,3 +1,9 @@
+### YD60BLE
+
+Author: YANG
+
+MCU: Atmega32u4
+
 ### Some infomation for debug
 
 `/* Column pin configuration`
