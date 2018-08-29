@@ -32,3 +32,7 @@ MCU: Atmega32u4
 
 `Bluetooth power control(v2 oly): PD5`
 
+
+
+PCB Pic for some people to debug or some other to copy.![](/assets/YD60BLE PCB Check.png)
+
