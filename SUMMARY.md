@@ -6,6 +6,9 @@
   * [BLE Driver for Win7](ble-series/win7.md)
 * [BT2.1 Series](bt21-series.md)
   * [UART2BT](bt21-series/uart2bt.md)
+* [Bootloader](bootloader.md)
+  * [AtmelDFU](bootloader/atmeldfu.md)
+  * [BootHID](bootloader/boothid.md)
 * [Keyboards](keyboards.md)
   * [ESWN](keyboards/eswn.md)
   * [Taichi Pad](keyboards/taichi-pad.md)
@@ -21,7 +24,4 @@
   * [启动快捷方式](features/shortcut.md)
 * [Mac Support](mac-support.md)
   * [Mac与Win键盘区别](mac-support/macyu-win-jian-pan-qu-bie.md)
-* [Bootloader](bootloader.md)
-  * [AtmelDFU](bootloader/atmeldfu.md)
-  * [BootHID](bootloader/boothid.md)
 
