@@ -4,6 +4,7 @@
 * [Edit Keymap](edit-keymap.md)
 * [BLE Series](ble-series.md)
   * [BLE Driver for Win7](ble-series/win7.md)
+  * [配对\(Pairing\)](ble-series/pei-5bf928-pairing.md)
 * [BT2.1 Series](bt21-series.md)
   * [UART2BT](bt21-series/uart2bt.md)
 * [Bootloader](bootloader.md)
