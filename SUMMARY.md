@@ -9,6 +9,7 @@
 * [Bootloader](bootloader.md)
   * [AtmelDFU](bootloader/atmeldfu.md)
   * [BootHID](bootloader/boothid.md)
+  * [STM32 HID Bootloader](bootloader/stm32-hid-bootloader.md)
 * [Keyboards](keyboards.md)
   * [ESWN](keyboards/eswn.md)
   * [Taichi Pad](keyboards/taichi-pad.md)
