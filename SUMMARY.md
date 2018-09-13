@@ -6,6 +6,8 @@
   * [BLE Driver for Win7](ble-series/win7.md)
   * [配对\(Pairing\)](ble-series/pei-5bf928-pairing.md)
   * [多设备切换](ble-series/duo-she-bei-qie-huan.md)
+  * [macOS配对](ble-series/macospei-dui.md)
+  * [iOS配对](ble-series/iospei-dui.md)
 * [BT2.1 Series](bt21-series.md)
   * [UART2BT](bt21-series/uart2bt.md)
   * [配对\(Pairing\)](bt21-series/pei-5bf928-pairing.md)
