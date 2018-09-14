@@ -12,19 +12,19 @@ iOS对蓝牙4.0\(BLE4.0\)的第三方HID设备，兼容不是特别友好。所�
 
 如果出现无法搜索到的情况，进入App Store，搜索“Bluefruit LE"，找到下面这个应用，安装。
 
-[![](https://github.com/yangdigi/ydkb_docs/raw/master/assets/iOS_Pairing_01.jpg)](https://github.com/yangdigi/ydkb_docs/blob/master/assets/iOS_Pairing_01.jpg)
+![](/assets/iOS_Pairing_01.jpg)
 
 然后打开这个应用，在这个应用里，可以搜索到键盘了。
 
-[![](https://github.com/yangdigi/ydkb_docs/raw/master/assets/iOS_Pairing_02.jpg)](https://github.com/yangdigi/ydkb_docs/blob/master/assets/iOS_Pairing_02.jpg)
+![](/assets/iOS_Pairing_02.jpg)
 
 点击键盘后面的Connect，会有配对请求的提示。
 
-[![](https://github.com/yangdigi/ydkb_docs/raw/master/assets/iOS_Pairing_03.jpg)](https://github.com/yangdigi/ydkb_docs/blob/master/assets/iOS_Pairing_03.jpg)
+![](/assets/iOS_Pairing_03.jpg)
 
 再点配对，完成。从系统设置的蓝牙里，也可以看到蓝牙键盘已经连上了。
 
-[![](https://github.com/yangdigi/ydkb_docs/raw/master/assets/iOS_Pairing_04.jpg)](https://github.com/yangdigi/ydkb_docs/blob/master/assets/iOS_Pairing_04.jpg)
+![](/assets/iOS_Pairing_04.jpg)
 
 ### 如果遇到其他问题
 
