@@ -2,8 +2,9 @@
 
 * [Introduction](README.md)
 * [Edit Keymap](edit-keymap.md)
-  * [按键功能](edit-keymap/key-actions.md)
-    * [瞬时切换层](edit-keymap/key-actions/l-layer.md)
+  * [按键功能总述](edit-keymap/key-actions.md)
+  * [修饰键\(组合键\)](edit-keymap/mods-keys.md)
+  * [瞬时切换层](edit-keymap/l-layer.md)
 * [BLE Series](ble-series.md)
   * [BLE Driver for Win7](ble-series/win7.md)
   * [Win10配对\(Pairing\)](ble-series/win10-pairing.md)
